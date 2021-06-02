@@ -4,7 +4,7 @@ Hi,
 
 Preferred language to script this will be PowerShell but we are okay with any language of your choice if below task is accomplished.
 
-You will find 
+You will find
 a) 2 Windows Registry file with name suffix _WithPlaceHolder.REG
 b) InformationForVariableReplacement.txt which contain variables value. 
 
