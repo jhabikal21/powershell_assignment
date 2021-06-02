@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[KEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBC.INI\MY_APP_%%APP_ID%%]
+"Driver"="C:\\windows\\system32\\msodbcsql17.dll"
+"Server"="%%APP_SERVER%%"
+"Database"="%%APP_DATABASE%%"
+"Encrypt"="No"
+"TrustServerCertificate"="No"
+"ClientCertificate"=""
+"KeystoreAuthentication"=""
+"KeystorePrincipalId"=""
+"KeystoreSecret"=""
+"KeystoreLocation"=""
+"LastUser"=""
+"Trusted_Connection"="No"
+"BypassServer"="%%APP_SERVER%%"
+
+[KEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBC.INI\ODBC Data Sources]
+"APP_%%APP_ID%%"="ODBC Driver 17 for SQL Server"

@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[KEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBC.INI\GPREP]
+"Driver"="C:\\windows\\system32\\msodbcsql17.dll"
+"Server"="%%APP_DESTINATION_SERVER%%"
+"Database"="%%APP_DESTINATION_DATABASE%%"
+"Encrypt"="No"
+"TrustServerCertificate"="No"
+"ClientCertificate"=""
+"KeystoreAuthentication"=""
+"KeystorePrincipalId"=""
+"AppID"="%%APP_DESTINATION_ID%%"
+"KeystoreSecret"=""
+"KeystoreLocation"=""
+"LastUser"=""
+"Trusted_Connection"="No"
+
+[KEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBC.INI\ODBC Data Sources]
+"GPREP"="ODBC Driver 17 for SQL Server"

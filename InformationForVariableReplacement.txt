@@ -1,0 +1,11 @@
+PATH: project1\DSN.REG
+---------------------------------------------
+"APP_ID"="12345"
+"APP_SERVER"="abc.server.net,443"
+"APP_DATABASE"="abc.database.windows.net,3342"
+
+PATH: project1\MSREPMAIN.REG
+---------------------------------------------
+"APP_DESTINATION_SERVER"="xyz.server.net,443"
+"APP_DESTINATION_DATABASE"="sql.public.database.windows.net,3342"
+"Database"="P_202040"
